@@ -48,3 +48,12 @@ Thumbs.db
 *.mov
 *.wmv
 
+/CounselVotingChallenge/CounselVoting.Api/CounselVoting.Api/bin/Debug/net5.0
+/CounselVotingChallenge/CounselVoting.Api/CounselVoting.Api/obj
+/CounselVotingChallenge/CounselVoting.Api/CounselVoting.Domain/bin/Debug/net5.0
+/CounselVotingChallenge/CounselVoting.Api/CounselVoting.Domain/obj
+/CounselVotingChallenge/CounselVoting.Api/CounselVoting.Infrastructure/bin/Debug/net5.0
+/CounselVotingChallenge/CounselVoting.Api/CounselVoting.Infrastructure/obj
+/CounselVotingChallenge/CounselVoting.Api/.vs/CounselVoting.Api/v16
+/CounselVotingChallenge/CounselVoting.Api/.vs/CounselVoting.Api
+/CounselVotingChallenge/CounselVoting.Api/CounselVoting.Infrastructure/CounselVoting.Infrastructure.csproj.user
