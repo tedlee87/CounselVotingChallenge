@@ -2,6 +2,8 @@
 
 **The seed project consists in frontend and backend**
 
+This can be used as your starting point for the Counsel Voting exercise. The exact instructions will be provided to you separately.
+
 ---
 
 Stack:
