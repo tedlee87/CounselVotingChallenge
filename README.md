@@ -1,8 +1,8 @@
-## Counsel Voting Challenge - Seed project
+## Council Voting Challenge - Seed project
 
 **The seed project consists in frontend and backend**
 
-This can be used as your starting point for the Counsel Voting exercise. The exact instructions will be provided to you separately.
+This can be used as your starting point for the Council Voting exercise. The exact instructions will be provided to you separately.
 
 ---
 
